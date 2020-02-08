@@ -1,9 +1,12 @@
 [package]
 name = "RHelper"
-version = "0.1.0"
-authors = ["mehdi <mehdi.bcheikh@gmail.com>"]
+version = "0.0.1"
+authors = ["mehdi <mehdi@astrolab-agency.com>"]
 edition = "2018"
+license = "Apache-2.0"
+description = "RHelper is a Rust library which provides utility functions for common programming tasks. "
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
